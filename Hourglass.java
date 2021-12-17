@@ -1,5 +1,5 @@
 /*
- * This program prints the an hourglass in a recursive manner.
+ * This program prints an hourglass in a recursive manner.
  *
  * @author  Ryan Chung
  * @version 1.0
